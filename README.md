@@ -1,7 +1,8 @@
 
 
+<img width="610" alt="Screenshot 2024-04-05 at 7 49 21 PM" src="https://github.com/DhruvMiyani/Dialogue-Summarization-Hugging-Face-Transformers/assets/54111873/6a22190b-a2f3-4205-83e5-1af8245fb8fb">
 
-![DS_5983_LLM (7) (1)-1](https://github.com/DhruvMiyani/Dialogue-Summarization-Hugging-Face-Transformers/assets/54111873/e816d846-0093-4e2d-87bb-714ace7f6c4a)
+
 
 
 ![DS_5983_LLM (7) (1)-2](https://github.com/DhruvMiyani/Dialogue-Summarization-Hugging-Face-Transformers/assets/54111873/0a514167-198e-4fb3-89ef-013182048276)
